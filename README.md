@@ -70,8 +70,17 @@ Sou apaixonado por tecnologia e busco uma oportunidade para aplicar meus conheci
 />
 <img
    align="left"
-   alt="ReactJs"
-   title="ReactJs"
+   alt="ReactNative"
+   title="ReactNative"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
+/>
+
+<img
+   align="left"
+   alt="Vite"
+   title="Vite"
    width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
@@ -131,6 +140,14 @@ Sou apaixonado por tecnologia e busco uma oportunidade para aplicar meus conheci
    width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img
+   align="left"
+   alt="Expo"
+   title="Expo"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg"
 />
 
 <br/>
