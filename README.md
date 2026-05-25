@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Guilherme Giovani, tenho 24 anos e moro em Ribeirão Preto – SP.
-Sou desenvolvedor Fullstack em formação, com foco em React, Node.js e MySQL.
-Atualmente curso Ciência da Computação na Universidade Anhembi Morumbi e desenvolvo projetos práticos como o "[Catálogo Gamer](https://catalogo-gamer.vercel.app/)"
-, uma aplicação completa com frontend e backend integrados.
-Sou apaixonado por tecnologia e busco uma oportunidade para colocar em prática meus conhecimentos, aprender novas ferramentas e continuar evoluindo como profissional.
+Me chamo Guilherme Giovani, tenho 24 anos e moro em Ribeirão Preto – SP. Sou desenvolvedor Fullstack em formação, com foco em React, Node.js e MySQL. Atualmente curso Ciência da Computação na Universidade Anhembi Morumbi e desenvolvo projetos práticos para consolidar meus conhecimentos.
+
+Entre os meus principais projetos estão o "[Catálogo Gamer](https://catalogo-gamer.vercel.app/)", uma aplicação fullstack com frontend e backend integrados, e o GranaFlow, um aplicativo mobile desenvolvido com Expo + React Native, voltado para controle financeiro pessoal, com funcionalidades como cadastro de gastos, filtros por período e exportação de dados.
+
+Sou apaixonado por tecnologia e busco uma oportunidade para aplicar meus conhecimentos, aprender novas ferramentas e evoluir constantemente como profissional.
 
 <p align="left">
       <a href="https://github.com/guilhermegiovani?tab=repositories">
