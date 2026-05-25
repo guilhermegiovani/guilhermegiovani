@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Guilherme Giovani, tenho 23 anos e moro em Ribeirão Preto – SP.
+Me chamo Guilherme Giovani, tenho 24 anos e moro em Ribeirão Preto – SP.
 Sou desenvolvedor Fullstack em formação, com foco em React, Node.js e MySQL.
 Atualmente curso Ciência da Computação na Universidade Anhembi Morumbi e desenvolvo projetos práticos como o "[Catálogo Gamer](https://catalogo-gamer.vercel.app/)"
 , uma aplicação completa com frontend e backend integrados.
